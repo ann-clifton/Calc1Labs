@@ -1,0 +1,6 @@
+name: calc1labs
+channels:
+ - conda-forge
+dependencies:
+ - python
+ - sage
