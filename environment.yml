@@ -4,3 +4,6 @@ channels:
 dependencies:
  - python
  - sage
+ - pip
+ - pip:
+   - uofsc-calculus-labs
